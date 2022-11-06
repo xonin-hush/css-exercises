@@ -1,0 +1,18 @@
+.odd{
+    color: black;
+    background-color: pink;
+    font-size: large;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.but-cool{
+    font-size: x-large;
+}
+#no2 {
+    color: blue;
+    font-size: xx-large;
+}
+#no4 {
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: x-large;
+}
